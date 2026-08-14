@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um universitário apaixonado por tecnologia e desenvolvimento de software. Atualmente estou cursando **Análise e Desenvolvimento de Softwares** na Unimater e buscando oportunidades para aplicar e expandir meus conhecimentos em um ambiente profissional dinâmico.
+Sou um universitário fascinado por tecnologia e desenvolvimento de software. Atualmente estou cursando **Análise e Desenvolvimento de Softwares** na Unimater e buscando oportunidades para aplicar e expandir meus conhecimentos em um ambiente profissional dinâmico.
 
 Tenho interesse em contribuir para projetos desafiadores e estar sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
 
