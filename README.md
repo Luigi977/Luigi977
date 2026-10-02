@@ -1,102 +1,153 @@
-# 👋 Olá! Eu sou Luigi Gabriel Capela Avansi
+# 👋 Olá, eu sou Luigi Gabriel!
 
-<div align="center">
-  
-### 🎓 Universitário de Análise e Desenvolvimento de Softwares
-**Unimater**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, interessado em transformar ideias em sistemas e aplicações funcionais.
 
-> Em busca de experiências na área de software
-
-</div>
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web, backend, APIs, bancos de dados e inteligência artificial**, enquanto continuo construindo projetos para colocar esses conhecimentos em prática.
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
 
-Sou um universitário fascinado por tecnologia e desenvolvimento de software. Atualmente estou cursando **Análise e Desenvolvimento de Softwares** na Unimater e buscando oportunidades para aplicar e expandir meus conhecimentos em um ambiente profissional dinâmico.
-
-Tenho interesse em contribuir para projetos desafiadores e estar sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
-
----
-
-## 💻 Habilidades Técnicas
-
-<div align="center">
-
-### Linguagens de Programação
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Ferramentas & Bibliotecas
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+* 💻 Desenvolvendo projetos acadêmicos e pessoais
+* 🔧 Atualmente estudando **Java e Spring Boot**
+* 🐍 Experiência com **Python** e projetos envolvendo dados e Machine Learning
+* 🌐 Desenvolvimento de aplicações com **HTML, CSS e JavaScript**
+* 🗄️ Trabalhando com **PostgreSQL e SQLite**
+* 🔌 Interesse em **APIs REST e integração entre sistemas**
+* 📱 Explorando desenvolvimento mobile com **Flutter**
+* 🌱 Sempre buscando aprender novas tecnologias e melhorar meus projetos
 
 ---
 
-## 📊 Nível de Proficiência
+## 🛠️ Tecnologias
 
-| Tecnologia | Nível |
-|-----------|-------|
-| **Java** | ⭐⭐⭐⭐ Intermediário |
-| **Python (Pandas)** | ⭐⭐⭐ Básico |
-| **HTML** | ⭐⭐⭐ Básico |
-| **CSS** | ⭐⭐⭐ Básico |
-| **JavaScript** | ⭐⭐⭐ Básico |
+### Linguagens
 
----
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</p>
 
-## 🎯 Objetivo Profissional
+### Frameworks e ferramentas
 
-Busco uma oportunidade como **Desenvolvedor de Software** ou **Desenvolvedor Junior** onde possa:
-- Aplicar meus conhecimentos em desenvolvimento de software
-- Aprender com profissionais experientes
-- Contribuir para projetos significativos
-- Desenvolver novas habilidades e competências
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
----
+### Bancos de dados
 
-## 📚 Educação
-
-🎓 **Análise e Desenvolvimento de Softwares**  
-Unimater - *Em Andamento*
-
----
-
-## 📫 Como Me Contactar
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luigi977)
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📌 Projetos
 
-<div align="center">
+### 🤖 Sistema de Triagem de Chamados
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luigi977&show_icons=true&theme=tokyonight&count_private=true)
+Sistema em desenvolvimento voltado para **classificação e priorização automática de chamados de suporte**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi977&layout=compact&theme=tokyonight)
+O projeto envolve:
 
-</div>
+* Backend com **Java e Spring Boot**
+* API REST
+* **PostgreSQL**
+* Estruturação de chamados e usuários
+* Dataset para classificação
+* Estudos de **Machine Learning**
+* Priorização de chamados de acordo com diferentes características
+
+🔗 [Ver repositório](https://github.com/Luigi977/Sistema-Triagem-Chamados)
 
 ---
 
-<div align="center">
+### 🌐 DAW 2026
 
-### ⭐ Se você gostou, deixe uma estrela nos meus repositórios!
+Repositório utilizado para atividades e projetos relacionados ao desenvolvimento de aplicações web.
 
-**Obrigado por visitar meu perfil!** 😊
+Entre os trabalhos está um projeto de **cardápio em HTML**, envolvendo estruturação de páginas e desenvolvimento frontend.
 
-</div>
+Tecnologias principais:
+
+* HTML
+* CSS
+* Desenvolvimento Web
+
+🔗 [Ver repositório](https://github.com/Luigi977/DAW-2026)
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+Java
+ └── Spring Boot
+      ├── APIs REST
+      ├── Banco de dados
+      └── Arquitetura de aplicações
+
+Python
+ ├── Dados
+ ├── Machine Learning
+ └── Automação
+
+Web
+ ├── HTML
+ ├── CSS
+ └── JavaScript
+
+Ferramentas
+ ├── Git
+ ├── GitHub
+ └── Docker
+
+Outros
+ ├── PostgreSQL
+ ├── Flutter
+ └── APIs
+```
+
+---
+
+## 🎯 Objetivos
+
+Meu objetivo é evoluir continuamente como desenvolvedor, construindo projetos que me permitam aplicar conhecimentos de **programação, backend, bancos de dados, desenvolvimento web e inteligência artificial**.
+
+Também busco desenvolver uma base sólida de **engenharia de software**, aprendendo não apenas a programar, mas também a estruturar, testar, documentar e manter sistemas.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luigi977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi977&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://github.com/Luigi977">
+    <img src="https://img.shields.io/badge/GitHub-Luigi977-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Sempre aprendendo, sempre construindo.”</i>
+</p>
