@@ -144,6 +144,12 @@ Também busco desenvolver uma base sólida de **engenharia de software**, aprend
   <a href="https://github.com/Luigi977">
     <img src="https://img.shields.io/badge/GitHub-Luigi977-181717?style=for-the-badge&logo=github">
   </a>
+  <a href="https://www.linkedin.com/in/luigi-avansi-101a9530a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luigi_Avansi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:luigi.avansi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-luigi.avansi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
