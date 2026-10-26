@@ -94,6 +94,7 @@ Repositório utilizado para atividades e projetos relacionados ao desenvolviment
 * Desenvolvimento Web
 
 🔗 [Ver repositório](https://github.com/Luigi977/DAW-2026)
+
 ---
 
 ## 📚 Atualmente estudando
