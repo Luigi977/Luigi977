@@ -77,16 +77,23 @@ O projeto envolve:
 
 Repositório utilizado para atividades e projetos relacionados ao desenvolvimento de aplicações web.
 
-Entre os trabalhos está um projeto de **cardápio em HTML**, envolvendo estruturação de páginas e desenvolvimento frontend.
+* Componentização do layout: `Header`, `NavigationBar`, `Main` e `Footer`
+* Barra de navegação por categorias (Todos, Lanches, Porções, Bebidas e Sobremesas), alimentada por `data/categories.ts`
+* Lista de 10 produtos com imagem, descrição, preço e botão "Adicionar ao carrinho"
+* Área "Seu pedido" (carrinho) ao lado da lista de produtos
+* Tipagem com TypeScript e React Compiler habilitado
+* Lint com ESLint
 
-Tecnologias principais:
+## 🛠️ Tecnologias principais
 
 * HTML
 * CSS
+* React 19
+* TypeScript
+* Vite
 * Desenvolvimento Web
 
 🔗 [Ver repositório](https://github.com/Luigi977/DAW-2026)
-
 ---
 
 ## 📚 Atualmente estudando
